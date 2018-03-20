@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/chenyuye/Documents/Workproject/WaterDetectSystem/Source/WaterDetect/libs/xstream-android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f3f92e0bc6e95a3a6d051baff3f39aafd76d299">
+        <dex dex="/Users/chenyuye/Documents/Workproject/WaterDetectSystem/Source/WaterDetect/build/intermediates/pre-dexed/debug/xstream-android_47a9997d908ac1f00ed583890f543f26accc87b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenyuye/Documents/Workproject/WaterDetectSystem/Source/WaterDetect/libs/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/chenyuye/Documents/Workproject/WaterDetectSystem/Source/WaterDetect/build/intermediates/pre-dexed/debug/butterknife-7.0.1_0e6dad525dc7d33a6e440ec593423b4bf2c479ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenyuye/Documents/Workproject/WaterDetectSystem/Source/WaterDetect/libs/poi-3.17.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ae92292a2043888b40d418da97dc0b669fde326">
+        <dex dex="/Users/chenyuye/Documents/Workproject/WaterDetectSystem/Source/WaterDetect/build/intermediates/pre-dexed/debug/poi-3.17_e023cb60702f54d4ba80b859556324750f07b4af.jar" />
+    </item>
+
+</items>

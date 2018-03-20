@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<system>
+
+	<password>1234567890</password>
+
+	<serversite>
+		<name>XXX</name>
+		<id></id>
+		<longitude></longitude>
+		<latitude></latitude>
+		<address></address>
+		<datasave></datasave>
+		<dataupload></dataupload>
+	</serversite>
+
+	<network>
+		<nettype></nettype>
+		<ip></ip>
+		<submask></submask>
+		<defgateway></defgateway>
+		<dns1></dns1>
+		<dns2></dns2>
+		<netstate></netstate>
+		<bluetooth></bluetooth>
+		<discovery></discovery>
+		<wifi></wifi>
+		<servera>
+			<name></name>
+			<ip></ip>
+			<pwd></pwd>
+			<port></port>
+		</servera>
+		<serverb>
+			<name></name>
+			<ip></ip>
+			<pwd></pwd>
+			<port></port>
+		</serverb>
+		<serverc>
+			<name></name>
+			<ip></ip>
+			<pwd></pwd>
+			<port></port>
+		</serverc>
+	</network>
+
+	<serialport>
+		<com1>
+			<baudrate></baudrate>
+			<databit></databit>
+			<checkbit></checkbit>
+			<stopbit></stopbit>
+		</com1>
+		<com2>
+			<baudrate></baudrate>
+			<databit></databit>
+			<checkbit></checkbit>
+			<stopbit></stopbit>
+		</com2>
+		<com3>
+			<baudrate></baudrate>
+			<databit></databit>
+			<checkbit></checkbit>
+			<stopbit></stopbit>
+		</com3>
+		<com4>
+			<baudrate></baudrate>
+			<databit></databit>
+			<checkbit></checkbit>
+			<stopbit></stopbit>
+		</com4>
+		<com5>
+			<baudrate></baudrate>
+			<databit></databit>
+			<checkbit></checkbit>
+			<stopbit></stopbit>
+		</com5>
+	</serialport>
+
+</system>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- 应用主题-->
+    <color name="app_background">@color/white</color><!-- 背景色 -->
+    <color name="app_statusbar_background">@color/app_blue</color><!-- 系统状态栏颜色 -->
+    <color name="app_title_background">@color/app_blue</color><!-- 标题栏背景 -->
+    <color name="app_title_textcolor">@color/black</color><!--标题字体颜色 -->
+
+
+    <color name="app_blue">#6699FF</color>
+    <color name="app_gray">#e5e5e5</color>
+
+    
+    <!-- sweetalert res -->
+    <color name="sweet_dialog_white">#FFFFFF</color><!--  -->
+
+    <color name="sweet_dialog_transparent">#00000000</color><!-- Window背景色 -->
+    <color name="sweet_dialog_background">#FFFFFF</color><!-- 对话框背景 -->
+
+    <color name="sweet_dialog_title_text">#575757</color><!-- 标题颜色 -->
+    <color name="sweet_dialog_content_text">#797979</color><!-- 提示内容颜色 -->
+    <color name="sweet_dialog_button_text">#FFFFFF</color><!-- 默认的确认、取消键字体颜色 -->
+    <color name="sweet_dialog_button">#AEDEF4</color><!-- 默认按钮颜色 -->
+    <color name="sweet_dialog_button_pressed">#96BFD2</color>
+    <color name="sweet_dialog_button_cancel">#D0D0D0</color><!-- 取消键按钮颜色 -->
+    <color name="sweet_dialog_button_cancel_pressed">#B6B6B6</color>
+    <color name="sweet_dialog_button_confirm">#DD6B55</color><!-- 确认键按钮颜色 -->
+    <color name="sweet_dialog_button_confirm_pressed">#CD5B55</color>
+
+    <color name="sweet_dialog_error_stroke_color">#F27474</color><!-- 错误X颜色 -->
+    <color name="sweet_dialog_success_stroke_color">#A5DC86</color><!-- 成功提示 -->
+    <color name="sweet_dialog_success_circle_stroke_color">#33A5DC86</color><!-- 进度条成功 -->
+    <color name="sweet_dialog_warning_stroke_color">#F8BB86</color><!-- 警示 -->
+
+    <color name="material_blue_grey_80">#ff37474f</color><!--  -->
+    <color name="material_blue_grey_90">#ff263238</color><!--  -->
+    <color name="material_blue_grey_95">#ff21272b</color><!--  -->
+    <color name="material_deep_teal_20">#ff80cbc4</color><!--  -->
+    <color name="material_deep_teal_50">#ff009688</color><!--  -->
+
+    <color name="ksw_md_ripple_normal">#1E000000</color><!--  -->
+	<color name="ksw_md_ripple_checked">#33019285</color><!--  -->
+
+	<color name="ksw_md_solid_shadow">#33000000</color><!--  -->
+
+	<color name="ksw_md_solid_normal">#ECECEC</color><!--  -->
+	<color name="ksw_md_solid_checked">#019285</color><!--  -->
+	<color name="ksw_md_solid_disable">#FFFFFF</color><!--  -->
+	<color name="ksw_md_solid_checked_disable">#aaaaaa</color><!--  -->
+
+</resources>

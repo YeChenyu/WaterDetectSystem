@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.jida.activity.DataReportActivity"
+    android:gravity="center"
+    android:padding="20dp"
+    >
+
+    <com.jida.views.pinnedheaderlistview.PinnedHeaderListView
+        android:id="@+id/data_report_table"
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="3"
+        android:divider="@color/gray"
+        android:dividerHeight="0.7dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0.7dp"
+        android:background="@color/gray"
+        />
+    <ListView
+        android:id="@+id/data_report_count_table"
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="1"
+        android:fadingEdge="none"
+        android:divider="@color/gray"
+        android:dividerHeight="0.7dp"
+        />
+
+</LinearLayout>

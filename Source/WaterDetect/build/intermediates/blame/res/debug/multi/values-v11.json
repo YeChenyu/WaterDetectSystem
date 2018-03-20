@@ -1,0 +1,512 @@
+[
+    {
+        "outputFile": "/Users/chenyuye/Documents/Workproject/WaterDetectSystem/Source/WaterDetect/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 15,
+                    "endColumn": 19,
+                    "endOffset": 472
+                },
+                "from": {
+                    "file": "/Users/chenyuye/Documents/Workproject/WaterDetectSystem/Source/WaterDetect/res/values-v11/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 458,
+                        "endLine": 25,
+                        "endColumn": 19,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 477,
+                    "endColumn": 46,
+                    "endOffset": 519
+                },
+                "from": {
+                    "file": "/Users/chenyuye/Documents/Workproject/WaterDetectSystem/Source/WaterDetect/res/values-v11/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 313,
+                        "endColumn": 46,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 524,
+                    "endColumn": 68,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "/Users/chenyuye/Documents/Workproject/WaterDetectSystem/Source/WaterDetect/res/values-v11/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 360,
+                        "endColumn": 68,
+                        "endOffset": 424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 593,
+                    "endColumn": 48,
+                    "endOffset": 637
+                },
+                "from": {
+                    "file": "/Users/chenyuye/Documents/Workproject/WaterDetectSystem/Source/WaterDetect/res/values-v11/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 264,
+                        "endColumn": 48,
+                        "endOffset": 308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 642,
+                    "endColumn": 69,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "/Users/chenyuye/Documents/Workproject/WaterDetectSystem/Source/WaterDetect/res/values-v11/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 69,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endColumn": 64,
+                    "endOffset": 772
+                },
+                "from": {
+                    "file": "/Users/chenyuye/Documents/Workproject/WaterDetectSystem/Source/WaterDetect/res/values-v11/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 64,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 777,
+                    "endColumn": 40,
+                    "endOffset": 813
+                },
+                "from": {
+                    "file": "/Users/chenyuye/Documents/Workproject/WaterDetectSystem/Source/WaterDetect/res/values-v11/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 40,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 818,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 947
+                },
+                "from": {
+                    "file": "/Users/chenyuye/Documents/Workproject/WaterDetectSystem/Source/WaterDetect/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 952,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1366
+                },
+                "from": {
+                    "file": "/Users/chenyuye/.android/build-cache/f82d3e02316747f30cacca229313f25d2a65ca47/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1371,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1791
+                },
+                "from": {
+                    "file": "/Users/chenyuye/.android/build-cache/f82d3e02316747f30cacca229313f25d2a65ca47/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 720,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 1140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1796,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 2219
+                },
+                "from": {
+                    "file": "/Users/chenyuye/.android/build-cache/f82d3e02316747f30cacca229313f25d2a65ca47/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1145,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2224,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 2645
+                },
+                "from": {
+                    "file": "/Users/chenyuye/.android/build-cache/f82d3e02316747f30cacca229313f25d2a65ca47/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1573,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2650,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 3074
+                },
+                "from": {
+                    "file": "/Users/chenyuye/.android/build-cache/f82d3e02316747f30cacca229313f25d2a65ca47/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1999,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 2423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3079,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 3499
+                },
+                "from": {
+                    "file": "/Users/chenyuye/.android/build-cache/f82d3e02316747f30cacca229313f25d2a65ca47/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2428,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 2848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3504,
+                    "endColumn": 88,
+                    "endOffset": 3588
+                },
+                "from": {
+                    "file": "/Users/chenyuye/.android/build-cache/f82d3e02316747f30cacca229313f25d2a65ca47/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3094,
+                        "endColumn": 88,
+                        "endOffset": 3178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3593,
+                    "endColumn": 100,
+                    "endOffset": 3689
+                },
+                "from": {
+                    "file": "/Users/chenyuye/.android/build-cache/f82d3e02316747f30cacca229313f25d2a65ca47/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3183,
+                        "endColumn": 100,
+                        "endOffset": 3279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3694,
+                    "endLine": 67,
+                    "endColumn": 12,
+                    "endOffset": 4097
+                },
+                "from": {
+                    "file": "/Users/chenyuye/.android/build-cache/f82d3e02316747f30cacca229313f25d2a65ca47/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3284,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 3687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4102,
+                    "endLine": 72,
+                    "endColumn": 12,
+                    "endOffset": 4517
+                },
+                "from": {
+                    "file": "/Users/chenyuye/.android/build-cache/f82d3e02316747f30cacca229313f25d2a65ca47/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3692,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 4107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 4522,
+                    "endLine": 74,
+                    "endColumn": 12,
+                    "endOffset": 4624
+                },
+                "from": {
+                    "file": "/Users/chenyuye/.android/build-cache/f82d3e02316747f30cacca229313f25d2a65ca47/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4353,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 4455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 4629,
+                    "endLine": 76,
+                    "endColumn": 12,
+                    "endOffset": 4753
+                },
+                "from": {
+                    "file": "/Users/chenyuye/.android/build-cache/f82d3e02316747f30cacca229313f25d2a65ca47/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4460,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 4584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 4758,
+                    "endLine": 81,
+                    "endColumn": 12,
+                    "endOffset": 5117
+                },
+                "from": {
+                    "file": "/Users/chenyuye/.android/build-cache/f82d3e02316747f30cacca229313f25d2a65ca47/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4589,
+                        "endLine": 64,
+                        "endColumn": 12,
+                        "endOffset": 4948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5122,
+                    "endColumn": 70,
+                    "endOffset": 5188
+                },
+                "from": {
+                    "file": "/Users/chenyuye/.android/build-cache/f82d3e02316747f30cacca229313f25d2a65ca47/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5194,
+                        "endColumn": 70,
+                        "endOffset": 5260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5193,
+                    "endColumn": 82,
+                    "endOffset": 5271
+                },
+                "from": {
+                    "file": "/Users/chenyuye/.android/build-cache/f82d3e02316747f30cacca229313f25d2a65ca47/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5265,
+                        "endColumn": 82,
+                        "endOffset": 5343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5276,
+                    "endLine": 134,
+                    "endColumn": 12,
+                    "endOffset": 9020
+                },
+                "from": {
+                    "file": "/Users/chenyuye/.android/build-cache/f82d3e02316747f30cacca229313f25d2a65ca47/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 5348,
+                        "endLine": 119,
+                        "endColumn": 12,
+                        "endOffset": 9092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 9025,
+                    "endLine": 186,
+                    "endColumn": 12,
+                    "endOffset": 12909
+                },
+                "from": {
+                    "file": "/Users/chenyuye/.android/build-cache/f82d3e02316747f30cacca229313f25d2a65ca47/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 9097,
+                        "endLine": 171,
+                        "endColumn": 12,
+                        "endOffset": 12981
+                    }
+                }
+            }
+        ]
+    }
+]

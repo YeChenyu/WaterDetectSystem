@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.jida.activity.DataReportActivity"
+    android:gravity="center"
+    android:background="@color/white"
+    android:minHeight="30dp"
+    >
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="fill_parent"
+        android:background="@color/gray"/>
+
+    <TextView
+        android:id="@+id/data_report_time"
+        android:layout_width="0px"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:text="统计时间"
+        android:gravity="center"
+        />
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="fill_parent"
+        android:background="@color/gray"/>
+
+    <TextView
+        android:id="@+id/data_report_temper"
+        android:layout_width="0px"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="温度"
+        android:gravity="center"
+        />
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="fill_parent"
+        android:background="@color/gray"/>
+
+    <TextView
+        android:id="@+id/data_report_ph"
+        android:layout_width="0px"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="PH值"
+        android:gravity="center"
+        />
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="fill_parent"
+        android:background="@color/gray"/>
+
+    <TextView
+        android:id="@+id/data_report_nh4n2"
+        android:layout_width="0px"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="氨氮"
+        android:gravity="center"
+        />
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="fill_parent"
+        android:background="@color/gray"/>
+
+    <TextView
+        android:id="@+id/data_report_p"
+        android:layout_width="0px"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="总磷"
+        android:gravity="center"
+        />
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="fill_parent"
+        android:background="@color/gray"/>
+
+    <TextView
+        android:id="@+id/data_report_n2"
+        android:layout_width="0px"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="总氮"
+        android:gravity="center"
+        />
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="fill_parent"
+        android:background="@color/gray"/>
+
+    <TextView
+        android:id="@+id/data_report_codmn"
+        android:layout_width="0px"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="CODMn"
+        android:gravity="center"
+        />
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="fill_parent"
+        android:background="@color/gray"/>
+</LinearLayout>

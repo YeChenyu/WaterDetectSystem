@@ -1,0 +1,64 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <!--添加parent="android:Theme.Light"会导致布局加载速度边慢-->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:screenOrientation">landscape</item>
+        <item name="android:windowBackground">@color/app_background</item><!--Activity窗体颜色 -->
+        <item name="android:windowActionBar">true</item>
+        <!-- Title 风格-->
+        <item name="android:windowTitleSize">48dp</item><!-- Title高度 -->
+        <item name="colorPrimary">@color/app_title_background</item><!-- Title背景颜色 -->
+        <item name="colorPrimaryDark">@color/app_statusbar_background</item><!-- 系统状态栏颜色 -->
+        <item name="colorAccent">@color/transparent</item><!-- 前景颜色 -->
+        <item name="android:windowTitleBackgroundStyle">@style/blackWindowTitleStyle</item>
+        <item name="toolbarStyle">@style/ClubToolbar</item><!-- 解决Title两边不能填充的问题 -->
+    </style>
+    <style name="ClubToolbar" parent="Widget.AppCompat.Toolbar">
+        <item name="contentInsetStart">0dp</item><!-- 设置该属性解决空白部分-->
+        <item name="titleMargins">0dp</item>
+    </style>
+    <!-- 标题字style -->
+    <style name="blackWindowTitleStyle" parent="@android:style/TextAppearance.WindowTitle">
+        <item name="android:textColor">@color/app_title_textcolor</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <!-- Dialog Style -->
+    <style name="alert_dialog" parent="android:Theme.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowBackground">@color/sweet_dialog_transparent</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.4</item>
+    </style>
+    <!-- Button Style-->
+    <style name="dialog_blue_button" parent="android:Widget.Button">
+        <item name="android:layout_width">0px</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/sweetalert_button_selector</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:paddingLeft">21dp</item>
+        <item name="android:paddingRight">21dp</item>
+        <item name="android:textColor">@color/sweet_dialog_button_text</item>
+    </style>
+
+</resources>

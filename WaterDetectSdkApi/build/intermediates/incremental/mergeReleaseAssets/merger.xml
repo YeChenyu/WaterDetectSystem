@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/chenyuye/Documents/Workspace/传感器控制项目/Source/WaterDetect/WaterDetectSdkApi/assets"/><source path="/Users/chenyuye/Documents/Workspace/传感器控制项目/Source/WaterDetect/WaterDetectSdkApi/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/chenyuye/Documents/Workspace/传感器控制项目/Source/WaterDetect/WaterDetectSdkApi/build-types/release/assets"/></dataSet></merger>

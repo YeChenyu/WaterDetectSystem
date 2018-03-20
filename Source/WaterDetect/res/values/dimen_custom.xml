@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- 字体大小 -->
+    <dimen name="tiny_text_size">8sp</dimen>
+    <dimen name="tiny_middle_text_size">10sp</dimen>
+    <dimen name="micro_text_size">11sp</dimen>
+    <dimen name="micro_middle_text_size">12sp</dimen>
+    <dimen name="small_text_size">14sp</dimen>
+    <dimen name="small_middle_text_size">17sp</dimen>
+    <dimen name="medium_text_size">20sp</dimen>
+    <dimen name="medium_middle_text_size">23sp</dimen>
+    <dimen name="large_text_size">25sp</dimen>
+    <dimen name="large_middle_text_size">28sp</dimen>
+    <dimen name="super_text_size">30sp</dimen>
+    <dimen name="super_middle_text_size">35sp</dimen>
+
+
+
+    <!-- sweetalert res -->
+    <dimen name="alert_width">290dp</dimen>
+    <dimen name="common_circle_width">3dp</dimen>
+    <dimen name="progress_circle_radius">34dp</dimen>
+
+    <dimen name="ksw_md_thumb_ripple_size">42dp</dimen>
+	<dimen name="ksw_md_thumb_solid_inset">11dp</dimen>
+	<dimen name="ksw_md_thumb_shadow_inset">11dp</dimen>
+	<dimen name="ksw_md_thumb_shadow_inset_top">11dp</dimen>
+	<dimen name="ksw_md_thumb_shadow_inset_bottom">10dp</dimen>
+
+	<dimen name="ksw_md_thumb_solid_size">20dp</dimen>
+	<dimen name="ksw_md_thumb_shadow_size">21dp</dimen>
+	<dimen name="ksw_md_thumb_shadow_offset">2dp</dimen>
+     <!--   res -->
+     
+     
+</resources>
